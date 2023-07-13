@@ -1,0 +1,4 @@
+python eval_model2.py 
+EVALUATING AT BEAM SIZE 5: 100%|██████████| 25000/25000 [09:37<00:00, 43.32it/s]
+
+BLEU-4 score @ beam size of 5 is 0.2941.
