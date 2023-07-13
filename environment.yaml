@@ -1,0 +1,22 @@
+name: cs7643group
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python=3.10
+  - pip:
+      - future
+      - tqdm
+      - matplotlib
+      - numpy
+      - opencv-python
+      - pillow==9.4.0
+      - pytz
+      - pyyaml
+      - pyzmq
+      - scipy
+      - torch==1.13.1
+      - torchvision==0.14.1
+      - nltk==3.8.1
+      - h5py==3.8.0
+      - scikit_image==0.20.0
